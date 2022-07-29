@@ -26,6 +26,9 @@
 
 Note : Remember to remove toggle off the "centered" attribute on sprites
 
+## Custom Profile
+Custom godot profile hiding everything not related to 2d development
+
 ## Assets
 
 TIC-80 small pixel font (with a default theme, free for commercial use)
