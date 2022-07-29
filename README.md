@@ -1,5 +1,5 @@
 # LOWREZJAM Godot project template
-  A godot 3.5 project template made for the lowrezjam in 2022 by Darenn Keller.
+  A godot 3.4 project template made for the lowrezjam in 2022 by Darenn Keller.
 
   Feel free to use it !
 
